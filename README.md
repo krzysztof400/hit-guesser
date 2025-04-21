@@ -1,5 +1,7 @@
-# Hitster Song Randomizer Web App
-Welcome to the Hitster Song Randomizer, a dynamic web application that brings a fun, engaging way to play the Hitster game online! With this tool, users can enjoy random song selections, along with insightful information about each song, turning a casual game into an exciting music trivia challenge.
+# Song Randomizer Web App
+Welcome to the guess your hit!, a dynamic web application that brings a fun, engaging way to play the Hitster game online! With this tool, users can enjoy random song selections, along with insightful information about each song, turning a casual game into an exciting music trivia challenge.
+
+## [Link](https://krzysztof400.github.io/hit-guesser/)
 
 ## 🚀 Features
 Song Randomization: Get a randomly selected song from a curated database, ready to be placed on your timeline or trivia game.
