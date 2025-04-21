@@ -27,8 +27,7 @@ function updateSong() {
   
   // Update the link
   songLink.href = song.link;
-  songLink.textContent = "Click to listen to a popular music hit";
-  
+  songLink.textContent = "Click to listen to: \"" + song.title + "\""; 
   // Update the song info
   songTitle.textContent = song.title;
   songArtist.textContent = song.artist;
